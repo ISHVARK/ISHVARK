@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Ishvar Kharche.
-- 👀 I’m interested in game testing and software development.
-- 🌱 I’m currently learning sellinium and javascript.
-- 📫 i have posted my work over here.
+- 👀 I’m interested in software testing and software development.
+- 🌱 I’m currently learning javascript and machine learning.
+- 📫 i have posted some of my work pease have a look at my github profile.
+- i have made a stock prediction model refer this link(https://colab.research.google.com/drive/1lq6UAZx6dYz4-3NCJfkKjWhnigcQKp5u?usp=sharing) to take a look.
 -if you are looking to hire me let me know on this(9604312546) contact.
-
-<!---
-ISHVARK/ISHVARK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-i have completed my graduation(BCS) from doctor D Y Patil arts commerce and science college pimpri and secured 70.33% throught the academics.
+-in the present year 2021 I'm persuing MCA from PES Modern College Of Engineering.
