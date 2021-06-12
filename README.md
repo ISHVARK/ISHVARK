@@ -6,3 +6,4 @@
 -if you are looking to hire me let me know on this(9604312546) contact.
 -i have completed my graduation(BCS) from doctor D Y Patil arts commerce and science college pimpri and secured 70.33% throught the academics.
 -in the present year 2021 I'm persuing MCA from PES Modern College Of Engineering.
+-i have 6 month of experience in Quality Analysis
